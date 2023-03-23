@@ -8,3 +8,8 @@
 	url = https://github.com/kdrachal/dynmix
 	shallow = true
 	registered = true
+[submodule "multDM"]
+	path = multDM
+	url = https://github.com/cran/multDM
+	shallow = true
+	registered = true
