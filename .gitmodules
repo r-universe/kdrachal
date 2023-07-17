@@ -5,6 +5,9 @@
 [submodule "dynmix"]
 	path = dynmix
 	url = https://github.com/kdrachal/dynmix
+[submodule "fDMA"]
+	path = fDMA
+	url = https://github.com/kdrachal/fdma
 [submodule "multDM"]
 	path = multDM
 	url = https://github.com/cran/multDM
