@@ -11,3 +11,6 @@
 [submodule "multDM"]
 	path = multDM
 	url = https://github.com/cran/multDM
+[submodule "pEPA"]
+	path = pEPA
+	url = https://github.com/cran/pEPA
